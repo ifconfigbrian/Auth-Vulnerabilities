@@ -1,0 +1,6 @@
+# Generate a list of 6-digit codes
+with open('2fa_codes.txt', 'w') as file:
+    for i in range(1000000):  # 000000 to 999999
+        file.write(f'{i:06d}\n')
+
+print("2FA codes generated and saved to '2fa_codes.txt'.")
