@@ -70,6 +70,3 @@ if __name__ == "__main__":
 
 
 
-    # https://0aa300d2031cf00181f1bc5c002a00ed.web-security-academy.net/login
-
-    # https://0aa300d2031cf00181f1bc5c002a00ed.web-security-academy.net/login2
